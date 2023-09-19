@@ -1,0 +1,132 @@
+Uri: https://reducksay.my.canva.site/
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\index.htm
+Content Type: text/html
+
+Uri: https://reducksay.my.canva.site/26387fa4f5b1e3f7b6217b27d79bf264.png
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\26387fa4f5b1e3f7b6217b27d79bf264.png
+Content Type: image/png
+
+Uri: https://reducksay.my.canva.site/2d0b56e7e51cf11036ad8734bdb67e2d.png
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\2d0b56e7e51cf11036ad8734bdb67e2d.png
+Content Type: image/png
+
+Uri: https://reducksay.my.canva.site/725b756a69a7d4c235070e51acd85560.png
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\725b756a69a7d4c235070e51acd85560.png
+Content Type: image/png
+
+Uri: https://reducksay.my.canva.site/fonts/01bb491de5070339bf99832ce44c544d.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\01bb491de5070339bf99832ce44c544d.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/1060345c54d396e76d73f1da7ee200bd.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\1060345c54d396e76d73f1da7ee200bd.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/226618464330c99b64fcaf1d7142c1e7.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\226618464330c99b64fcaf1d7142c1e7.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/3caeb8725430f400cbc24c4707d72558.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\3caeb8725430f400cbc24c4707d72558.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/64dfd027222a62438bc2a4d821786c71.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\64dfd027222a62438bc2a4d821786c71.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/93216375a15a0334d096957c3f1f2f0f.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\93216375a15a0334d096957c3f1f2f0f.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/98c4d2c0223fc8474641c77f923528e9.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\98c4d2c0223fc8474641c77f923528e9.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/a26fb2e545ea4d91b9808446bd10482b.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\a26fb2e545ea4d91b9808446bd10482b.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/a75cdabbb8dcdf033cc6b207c91608bf.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\a75cdabbb8dcdf033cc6b207c91608bf.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/d257a7100844bc3f98c9021168b6249e.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\d257a7100844bc3f98c9021168b6249e.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/e532966f486645f74efaf7432e1d01c2.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\e532966f486645f74efaf7432e1d01c2.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/fonts/f8f199f09526f79e87644ed227e0f651.woff2
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\fonts\f8f199f09526f79e87644ed227e0f651.woff2
+Content Type: font/woff2
+
+Uri: https://reducksay.my.canva.site/images/29caefca14818867aad0aed3ea6007e1.jpg
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\images\29caefca14818867aad0aed3ea6007e1.jpg
+Content Type: image/jpeg
+
+Uri: https://reducksay.my.canva.site/images/9a7451ad1136a52855e0defdd4d56dab.svg
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\images\9a7451ad1136a52855e0defdd4d56dab.svg
+Content Type: image/svg+xml
+
+Uri: https://reducksay.my.canva.site/images/c4950b04b52811d5472c20dbb2875762.png
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\images\c4950b04b52811d5472c20dbb2875762.png
+Content Type: image/png
+
+Uri: https://reducksay.my.canva.site/images/ef42591d9b373f0633830ab47dd72b01.jpg
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\images\ef42591d9b373f0633830ab47dd72b01.jpg
+Content Type: image/jpeg
+
+Uri: https://reducksay.my.canva.site/js/6217f8751a46a7e5f89d85462b2b7c1118aff0af33959909d3a26d50904cb4a4.js
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\js\6217f8751a46a7e5f89d85462b2b7c1118aff0af33959909d3a26d50904cb4a4.js
+Content Type: application/javascript
+
+Uri: https://reducksay.my.canva.site/js/748c577b23dd390a893c7e346b13f214561d691581b6103365505b7c93147ad1.js
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\js\748c577b23dd390a893c7e346b13f214561d691581b6103365505b7c93147ad1.js
+Content Type: application/javascript
+
+Uri: https://reducksay.my.canva.site/js/939898b427480d700449229ff00dbb8a6f9f77442b532f697866e6914ab8843a.js
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\js\939898b427480d700449229ff00dbb8a6f9f77442b532f697866e6914ab8843a.js
+Content Type: application/javascript
+
+Uri: https://reducksay.my.canva.site/videos/0aa9e40831dbbd50d9fc07533c6943ba.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\0aa9e40831dbbd50d9fc07533c6943ba.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/8188959b65c6c94c986328590ad5ef64.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\8188959b65c6c94c986328590ad5ef64.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/84d0eb0f01a9613d3f0c01e8544d965e.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\84d0eb0f01a9613d3f0c01e8544d965e.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/862519b5844ce2e51b34c13b3d236574.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\862519b5844ce2e51b34c13b3d236574.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/9bdfc70dbe6766ac8e2ec4644492b0c7.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\9bdfc70dbe6766ac8e2ec4644492b0c7.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/d26aaf1a309e2b9309168d4df9f5fea7.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\d26aaf1a309e2b9309168d4df9f5fea7.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/e87b44f80232818f9ae4d39e983443fa.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\e87b44f80232818f9ae4d39e983443fa.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/videos/fc8b5eb06ea6820111d5ad2496dd926c.mp4
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\videos\fc8b5eb06ea6820111d5ad2496dd926c.mp4
+Content Type: video/mp4
+
+Uri: https://reducksay.my.canva.site/_link/?link=https:%2F%2Fforms.gle%2FXyMPSYPPDQC3KK7H7&target=NLvrMl4MfYg6Sw604FDIQxhqQRyu6zfYsDtS3mlOw97DVrrIXEZlEQ3YGNEWX%2F%2BOgjssFnK0Chx6Z92sNVgM%2FFG26Nei0M0NNhMiDIHAtYYqDC4sRogq%2F02d5kU%3D&iv=aKHypH7OihS%2B7Dek
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\_link\index-1.htm
+Content Type: text/html
+
+Uri: https://reducksay.my.canva.site/_link/?link=https:%2F%2Fforms.gle%2FXyMPSYPPDQC3KK7H7&target=xp5z0oiwBbG25ambT3NXI7iYDM0gMZvkPmTbdRznM5yfII%2B12LYRe%2FMXLDtFRNGvcSFN5uUzBWM9dVQAsYXWxyJk6Wdu%2Fwwmw%2FO%2FoJKQMBlyMTBQWJVjs67I%2Big%3D&iv=I7h4KsdtvVdASrOM
+File Name: C:\Downloaded Web Sites\reducksay.my.canva.site\_link\index.htm
+Content Type: text/html
+
